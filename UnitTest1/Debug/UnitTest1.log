@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+E:\Політех\ооп\lab_1.2\lab_1.2\Matrix.cpp(52): warning C4715: Matrix::getValueByIndex: значение возвращается не при всех путях выполнения
+     Создается библиотека E:\Політех\ооп\lab_1.2\Debug\UnitTest1.lib и объект E:\Політех\ооп\lab_1.2\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\Політех\ооп\lab_1.2\Debug\UnitTest1.dll
